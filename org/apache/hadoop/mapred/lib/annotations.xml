@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.hadoop.mapred.lib.CombineFileInputFormat'>
+        <annotation name='java.lang.annotation.Deprecated'/>
+    </item>
+</root>
